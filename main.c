@@ -19,5 +19,8 @@ int main(int argc, char *argv[]) {
 	//4 said
 	printf("Hallo world! \n");
 	printf("pasin novi c1");
+	//ata komm
+	//ata komm2
+
 	return 0;
 }
