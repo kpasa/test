@@ -14,6 +14,8 @@ int main(int argc, char *argv[]) {
 	printf("Rectangle area: %ld\n",Rectangle_Area(&rect));
 	
 	printf("Saidov f1");
+	//2 said
+	//3 said
 	printf("Hallo world! \n");
 	return 0;
 }
