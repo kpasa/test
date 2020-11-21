@@ -18,5 +18,6 @@ int main(int argc, char *argv[]) {
 	//3 said
 	//4 said
 	printf("Hallo world! \n");
+	printf("pasin novi c1");
 	return 0;
 }
