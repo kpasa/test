@@ -12,6 +12,7 @@ int main(int argc, char *argv[]) {
 	rect.b = 4;
 	
 	printf("Rectangle area: %ld\n",Rectangle_Area(&rect));
+	printf("22:02 dodato");
 
 	return 0;
 }
