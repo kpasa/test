@@ -10,12 +10,7 @@ int main(int argc, char *argv[]) {
 	
 	rect.a = 3;
 	rect.b = 4;
-	
-	printf("Rectangle area: %ld\n",Rectangle_Area(&rect));
-	
-	printf("Saidov f1");
-	//2 said
-	//3 said
-	printf("Hallo world! \n");
+
+
 	return 0;
 }
