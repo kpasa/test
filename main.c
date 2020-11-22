@@ -12,16 +12,6 @@ int main(int argc, char *argv[]) {
 	rect.b = 4;
 	
 	printf("Rectangle area: %ld\n",Rectangle_Area(&rect));
-	
-	printf("Saidov f1");
-	//2 said
-	//3 said
-	//4 said
-	printf("Hallo world! \n");
-	printf("pasin novi c1");
-	//ata komm
-	//ata komm2
-	//stash
 
 	return 0;
 }
