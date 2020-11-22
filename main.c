@@ -21,6 +21,7 @@ int main(int argc, char *argv[]) {
 	printf("pasin novi c1");
 	//ata komm
 	//ata komm2
+	//stash
 
 	return 0;
 }
